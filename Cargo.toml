@@ -8,7 +8,7 @@ repository = "https://github.com/zimingYS/century_journey"
 readme = "README.md"
 
 [dependencies]
-bevy = "0.19.0"
+bevy = "0.20.1"
 icu_provider = { version = "2.2.0", features = ["logging"] }
 log = { version = "0.4.33", features = ["max_level_debug", "release_max_level_info"] }
 serde = { version = "1.0.228", features = ["derive"] }
